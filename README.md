@@ -5,3 +5,5 @@ Apart from choosing skin, you can also change player attributes like stamina, dr
 
 We will be using machine learning to predict the best position for this newly created player. We will train a
 model on current players' attributes and their current playing positions.
+
+We have used "players_20.csv" data from kaggle.
